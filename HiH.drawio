@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:12:22.203Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9Ag3nGJJKLaRmYVATMVW" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T08:44:48.988Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YcQJNwE664CVm99rnXV3" version="24.6.4" type="github">
   <diagram name="Page-1" id="ZEC1BKXkmVrY2c9UGJkW">
-    <mxGraphModel dx="774" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iO6tlNouabSFR5yhzCt5-1" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;resizeWidth=0;resizable=0;resizeHeight=0;deletable=0;rotatable=0;movable=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iO6tlNouabSFR5yhzCt5-2" value="Aśoka" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=bottom;rounded=0;fontSize=8;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;aspect=fixed;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-802" y="48" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="iO6tlNouabSFR5yhzCt5-3" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;resizeWidth=0;resizable=0;resizeHeight=0;deletable=0;rotatable=0;movable=0;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iO6tlNouabSFR5yhzCt5-4" value="gymnosophists" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=bottom;rounded=0;fontSize=8;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=1;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;aspect=fixed;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-912" y="158" width="4" height="4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
