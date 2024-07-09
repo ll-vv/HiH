@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T05:10:08.602Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BOIoH5rkr1msA4ryrMRQ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T05:18:05.500Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m9EUEVD2XDJXZGAAswj1" version="24.6.4" type="github">
   <diagram name="Page-1" id="ZEC1BKXkmVrY2c9UGJkW">
-    <mxGraphModel dx="1954" dy="3895" grid="0" gridSize="5" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="3895" grid="0" gridSize="5" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -63,6 +63,11 @@
         <object label="a great ruler is his own servant&lt;div&gt;&lt;br&gt;&lt;div&gt;the first person a liar must lie to is himself, &#xa;but lies don&#39;t work on a great liar,&#xa;therefore a liar believes a lie yet knows it&#39;s false&lt;/div&gt;&lt;/div&gt;&#xa;the unexpected multiplies the experience" id="ACHeE1X7k8rGn6NAyDFs-1">
           <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=bottom;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=1;" vertex="1" parent="1">
             <mxGeometry x="1200" y="-2027" width="20" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="And if anyone wants to harm them,&#xa;fire proceeds from their mouth and devours their enemies.&#xa;And if anyone wants to harm them, &#xa;he must be killed in this manner." id="ACHeE1X7k8rGn6NAyDFs-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-1065" y="837" width="20" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="iO6tlNouabSFR5yhzCt5-17" value="111" parent="0" />
