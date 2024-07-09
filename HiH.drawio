@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T04:24:28.748Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1sr8hM4yFzl4loHm-2yD" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T04:38:41.605Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_AlOolyKxiyPFxStMjg-" version="24.6.4" type="github">
   <diagram name="Page-1" id="ZEC1BKXkmVrY2c9UGJkW">
-    <mxGraphModel dx="1457" dy="2365" grid="0" gridSize="5" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1954" dy="3129" grid="0" gridSize="5" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -147,9 +147,9 @@
             <mxGeometry x="1200" y="100" width="20" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="sores" id="T-NNC2mDZy9OTHTBuR6p-21">
-          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=1;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=0;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
-            <mxGeometry x="1199" y="-300" width="20" height="20" as="geometry" />
+        <object label="lucifer fights michael in heaven" id="T-NNC2mDZy9OTHTBuR6p-21">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=0;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+            <mxGeometry x="1200" y="-300" width="20" height="20" as="geometry" />
           </mxCell>
         </object>
       </root>
