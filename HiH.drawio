@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T03:30:30.808Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="muXwIxoWyY8TeV8yqPYL" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T03:53:08.622Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mq2NMTY9m51_RMgjIpLJ" version="24.6.4" type="github">
   <diagram name="Page-1" id="ZEC1BKXkmVrY2c9UGJkW">
     <mxGraphModel dx="1714" dy="3129" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
@@ -73,9 +73,30 @@
         <mxCell id="T-NNC2mDZy9OTHTBuR6p-3" value="famine&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
           <mxGeometry x="1200" y="-1300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T-NNC2mDZy9OTHTBuR6p-4" value="type:mars arrives&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+        <mxCell id="T-NNC2mDZy9OTHTBuR6p-4" value="pestilence" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
           <mxGeometry x="1200" y="-1200" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="T-NNC2mDZy9OTHTBuR6p-5" value="matyr" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+          <mxGeometry x="1200" y="-1100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T-NNC2mDZy9OTHTBuR6p-6" value="earthquake" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+          <mxGeometry x="1200" y="-1000" width="20" height="20" as="geometry" />
+        </mxCell>
+        <object label="アド・エデム kills type:jupiter using 魔剣・ 斬撃皇帝&#xa;西の大陸 entirely burned" id="T-NNC2mDZy9OTHTBuR6p-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=1;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+            <mxGeometry x="1200" y="-900" width="20" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="a third of sea" id="T-NNC2mDZy9OTHTBuR6p-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=0;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=1;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+            <mxGeometry x="1200" y="-800" width="20" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="アド・エデム kills type:jupiter using 魔剣・ 斬撃皇帝&#xa;西の大陸 entirely burned" id="T-NNC2mDZy9OTHTBuR6p-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=top;rounded=0;fontSize=20;fontColor=#FFFFFF;resizable=0;deletable=0;editable=1;movable=1;rotatable=0;locked=0;connectable=1;labelBackgroundColor=none;spacing=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;textShadow=0;backgroundOutline=0;movableLabel=0;resizeWidth=0;resizeHeight=0;aspect=fixed;metaEdit=1;" vertex="1" parent="iO6tlNouabSFR5yhzCt5-17">
+            <mxGeometry x="1200" y="-700" width="20" height="20" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
