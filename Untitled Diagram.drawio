@@ -89,6 +89,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QoOo3BK9ojRGISVVXyt9-6" value="east germany builds berlin wall" style="html=1;movable=1;resizable=0;rotatable=0;strokeColor=none;fillColor=none;align=left;labelBorderColor=none;verticalAlign=top;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="12" y="239" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoOo3BK9ojRGISVVXyt9-7" value="1961" style="html=1;movable=1;resizable=0;rotatable=0;strokeColor=none;fillColor=none;align=right;labelBorderColor=none;verticalAlign=top;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="239" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
