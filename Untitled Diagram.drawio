@@ -21,6 +21,13 @@
         <mxCell id="TrVlyubg2XJDQlOEhjqU-1" value="&lt;div&gt;＜膜下出血 subarachnoid hemorrhage＞&lt;/div&gt;&lt;div&gt;bleeding between brain and skull&lt;br&gt;&lt;/div&gt;" style="html=1;movable=1;resizable=0;rotatable=0;strokeColor=none;fillColor=none;align=left;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry y="70" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TrVlyubg2XJDQlOEhjqU-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="30" as="sourcePoint" />
+            <mxPoint x="70" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
