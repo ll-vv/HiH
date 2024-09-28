@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="3">
   <diagram id="pW1CIWiRMNYjcXl-7ZjM" name="Page-4">
     <mxGraphModel dx="1726" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -32,6 +32,26 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ZK8cW80G2lHJUKnvtjZJ-1" value="&lt;div&gt;yawara&lt;/div&gt;&lt;div&gt;lain&lt;/div&gt;&lt;div&gt;dangan&lt;br&gt;&lt;/div&gt;&lt;div&gt;monster&lt;/div&gt;&lt;div&gt;chainsawman&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yyEV9VL6U6VxrgCj1Xtu" name="Page-3">
+    <mxGraphModel dx="1114" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uUOhPVk2AGd84hCmEgCQ-1" value="end of summer" style="rounded=0;whiteSpace=wrap;html=1;resizable=0;rotatable=0;verticalAlign=top;labelBorderColor=none;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="352" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOhPVk2AGd84hCmEgCQ-2" value="&lt;div&gt;doctor ashiya&lt;/div&gt;&lt;div&gt;芦屋先生&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;resizable=0;rotatable=0;verticalAlign=top;labelBorderColor=none;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="490" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOhPVk2AGd84hCmEgCQ-4" value="the girl in the bed next to mine screams" style="rounded=0;whiteSpace=wrap;html=1;resizable=0;rotatable=0;verticalAlign=top;labelBorderColor=none;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="630" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOhPVk2AGd84hCmEgCQ-5" value="the lines: like stitches that hold an open wound together after surgery " style="rounded=0;whiteSpace=wrap;html=1;resizable=0;rotatable=0;verticalAlign=top;labelBorderColor=none;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="770" y="367" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
