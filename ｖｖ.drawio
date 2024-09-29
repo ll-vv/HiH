@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="2">
   <diagram name="Page-1" id="jFLHDPD7xxgGK9pivNSK">
-    <mxGraphModel dx="674" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="262" dy="380" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Taj2fSa_MXeaUs_PgMxz-2" value="&lt;div&gt;......なんだかきになる。様子を見にいこう&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;" vertex="1" parent="1">
-          <mxGeometry width="20" height="20" as="geometry" />
+        <mxCell id="Taj2fSa_MXeaUs_PgMxz-2" value="&lt;div&gt;......なんだかきになる。様子を見にいこう&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;" parent="1" vertex="1">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4oaasDSPAU3iZpUg7DTp-1" value="教室に残って食事をとる。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;" vertex="1" parent="1">
+          <mxGeometry y="30" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4oaasDSPAU3iZpUg7DTp-2" value="もう少しだけ学校に残っていよう。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;" vertex="1" parent="1">
+          <mxGeometry y="60" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
