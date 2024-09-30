@@ -175,14 +175,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1w69Y27KTrCEe1oIdBra" name="月姫">
-    <mxGraphModel dx="732" dy="190" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g9lnHy0x9EUwsKP7lrdm-1" value="真祖true ancestor" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="g9lnHy0x9EUwsKP7lrdm-1" value="&lt;div&gt;真祖true ancestor; are vampires&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="g9lnHy0x9EUwsKP7lrdm-2" value="死徒dead apostle" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
+        <mxCell id="g9lnHy0x9EUwsKP7lrdm-2" value="&lt;div&gt;死徒dead apostle; became vampires, by 魔術 or after their blood was sucked by the True Ancestors;&amp;nbsp;&lt;/div&gt;&lt;div&gt;　defeated by baptism ritual&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry y="30" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="g9lnHy0x9EUwsKP7lrdm-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=0.2;endArrow=none;endFill=0;" edge="1" parent="1">
