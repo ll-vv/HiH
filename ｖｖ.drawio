@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="6">
   <diagram name="フロー" id="jFLHDPD7xxgGK9pivNSK">
     <mxGraphModel dx="1063" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1w69Y27KTrCEe1oIdBra" name="月姫">
-    <mxGraphModel dx="1326" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="507" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,11 +192,25 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g9lnHy0x9EUwsKP7lrdm-8" value="吸血鬼" style="html=1;resizeWidth=1;whiteSpace=wrap;autosize=1;autosizeGrid=0;fixedWidth=0;resizable=1;spacing=0;strokeWidth=0.2;container=0;backgroundOutline=0;resizeHeight=1;rotation=0;fontSize=50;" parent="1" vertex="1">
-          <mxGeometry width="164" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="eZ28Jy5bvsNLft5k91rR-1" value="魅惑の魔眼; We don&#39;t fascinate the person we see, we fascinate the person who looks into our eyes." style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="564" y="100" width="10" height="10" as="geometry" />
+          <mxGeometry x="600" y="100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ywujrip36vzkQO4zpJHh-1" value="&lt;div&gt;The transformation into other animals is a product of the use of messengers to compensate for a damaged body.&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;to repair their bodies, they absorb beasts&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Vampires who replaces their body with beasts can use the beasts as familiars by returning them to their original form when necessary.&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ffwev2opZVC28-hPvh9-2" value="吸血鬼" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ekjRUIFGMVhe_Od7fDTC" name="イデア">
+    <mxGraphModel dx="1326" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0derQQrh8dHE09g-WXRG-1" value="marry sister to get closer to brother" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
