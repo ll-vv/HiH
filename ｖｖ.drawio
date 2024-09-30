@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Android 14; Mobile; rv:132.0) Gecko/132.0 Firefox/132.0" version="24.7.16" pages="3">
   <diagram name="Page-1" id="jFLHDPD7xxgGK9pivNSK">
     <mxGraphModel dx="923" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,15 +61,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CfOLglukGvATelmLOwGF" name="Page-2">
-    <mxGraphModel dx="674" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M9BFGEE4UkaGu28w2Sqr-1" value="&lt;div&gt;有間&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;fontSize=100;" vertex="1" parent="1">
+        <mxCell id="M9BFGEE4UkaGu28w2Sqr-1" value="&lt;div&gt;有間&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;fontSize=100;" parent="1" vertex="1">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9nrrSPI3zsSw3xwl6PZq-1" value="The Arima family is also the head of a tea ceremony house." style="html=1;fillColor=none;strokeColor=default;verticalAlign=middle;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;" vertex="1" parent="1">
+        <mxCell id="9nrrSPI3zsSw3xwl6PZq-1" value="The Arima family is also the head of a tea ceremony house." style="html=1;fillColor=none;strokeColor=default;verticalAlign=middle;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;" parent="1" vertex="1">
           <mxGeometry y="179" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJ_qikJoy1ut661l2sqP-1" value="二人に挨拶をする。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="37" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
