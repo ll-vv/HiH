@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ln0KoD10PIkALgn1Wg8f" name="Page-3">
-    <mxGraphModel dx="523" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,9 +99,6 @@
         <mxCell id="z9QmoItBx0nf027GV1xs-14" value="お父様" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="1">
           <mxGeometry x="160.5" y="538" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z9QmoItBx0nf027GV1xs-15" value="秋葉" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="502.4213562373095" y="417.1213562373095" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="z9QmoItBx0nf027GV1xs-16" value="琥珀" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="1">
           <mxGeometry x="205.4213562373095" y="582.1213562373096" width="60" height="60" as="geometry" />
         </mxCell>
@@ -110,6 +107,15 @@
         </mxCell>
         <mxCell id="z9QmoItBx0nf027GV1xs-18" value="一階" style="whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="271.42135623730957" y="538.0013562373096" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-21" value="遊戯室" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="383.00135623730955" y="538.0013562373096" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-22" value="客間" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="383.00135623730955" y="626.0013562373096" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-23" value="&lt;div&gt;？&lt;/div&gt;&lt;div&gt;書庫&lt;/div&gt;" style="whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="271.42135623730957" y="774.0013562373096" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
