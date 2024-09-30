@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="3">
   <diagram name="Page-1" id="jFLHDPD7xxgGK9pivNSK">
     <mxGraphModel dx="1163" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,62 @@
         </mxCell>
         <mxCell id="9nrrSPI3zsSw3xwl6PZq-1" value="The Arima family is also the head of a tea ceremony house." style="html=1;fillColor=none;strokeColor=default;verticalAlign=middle;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.4;spacing=0;" vertex="1" parent="1">
           <mxGeometry y="179" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ln0KoD10PIkALgn1Wg8f" name="Page-3">
+    <mxGraphModel dx="523" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z9QmoItBx0nf027GV1xs-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry width="602.842712474619" height="282.842712474619" as="geometry" />
+        </mxCell>
+        <mxCell id="j6PuzsMOKGvUKaE4dv_4-1" value="" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="91.42135623730951" y="-8.57864376269049" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="j6PuzsMOKGvUKaE4dv_4-2" value="" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="411.4213562373095" y="-8.57864376269049" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="283.4213562373095" y="212.4213562373095" width="36" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-6" value="志&lt;span&gt;貴&lt;/span&gt;" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="40.42135623730951" y="17.12135623730951" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-7" value="秋葉" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="502.4213562373095" y="17.12135623730951" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-8" value="翡翠" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="205.4213562373095" y="182.1213562373095" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-20" value="二階" style="whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="z9QmoItBx0nf027GV1xs-9">
+          <mxGeometry x="271.42135623730957" y="139.00135623730955" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-11" value="" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="91.42135623730951" y="391.4213562373095" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-12" value="" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="411.4213562373095" y="391.4213562373095" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283.4213562373095" y="612.4213562373095" width="36" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-14" value="お父様" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="538" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-15" value="秋葉" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="502.4213562373095" y="417.1213562373095" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-16" value="琥珀" style="whiteSpace=wrap;html=1;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="205.4213562373095" y="582.1213562373096" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-17" value="居間" style="whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="338.00135623730955" y="582.1213562373096" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9QmoItBx0nf027GV1xs-18" value="一階" style="whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271.42135623730957" y="538.0013562373096" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
