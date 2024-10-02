@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="7">
   <diagram name="フロー" id="jFLHDPD7xxgGK9pivNSK">
     <mxGraphModel dx="1726" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1w69Y27KTrCEe1oIdBra" name="理論">
-    <mxGraphModel dx="1326" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,7 +309,7 @@
         </mxCell>
         <mxCell id="g9lnHy0x9EUwsKP7lrdm-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=0.2;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="5" y="110" as="sourcePoint" />
+            <mxPoint x="5" y="80" as="sourcePoint" />
             <mxPoint x="5" y="130" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -366,8 +366,23 @@
         <mxCell id="l8fgRcmvwhRVhdRgnZ0e-1" value="固有結界 characteristic barrier" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="4000" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ZvjRABt9xVBejPlgrVSp-1" value="like the white snake from Haiti that parasitizes corpses" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="181" width="10" height="10" as="geometry" />
+        <mxCell id="ZvjRABt9xVBejPlgrVSp-1" value="like the white snake from Haiti that parasitizes corpses" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="180" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Te0acUVkFG0PPYnBqjot-1" value="&lt;span&gt;The human who have their blood sucked die. &lt;/span&gt;But at this time, if 死徒 leave their own blood at the corpse, the human killed will not be able to die." style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Te0acUVkFG0PPYnBqjot-2" value="&lt;div&gt;After a few years in the grave, the brain decomposes and the soul is completely “fixed” in the body, and the body becomes &lt;span&gt;屍食鬼（グール）;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Only about one in a hundred humans become a ghoul; from birth, some humans are qualified a higher species step up, instantly becoming one of bloodsucker species, but it&#39;s really rare.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;a ghoul eats the flesh of other corpses to compensate for its own body, which has rotted over the years since it was a corpse. by restoring the rotting body, the ghoul becomes リビングデッド;&lt;/div&gt;&lt;div&gt;After a few more years from the living dead, those who have regained their knowledge as human beings are called vampires. Only about one in 10,000 remain this long.&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;allowArrows=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Te0acUVkFG0PPYnBqjot-3" value="リビングデッド" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="70" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Te0acUVkFG0PPYnBqjot-5" value="リビングデッド" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="450" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Te0acUVkFG0PPYnBqjot-6" value="&lt;span&gt;kill their parent (a dead apostle) and become a new Dead Apostle, &lt;/span&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;like a knight becomes a ruler through military exploits;&lt;/span&gt;&lt;span&gt; The whims of an existence close to a devil, I suppose. &lt;/span&gt;" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry y="470" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
