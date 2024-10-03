@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="7">
   <diagram name="フロー" id="jFLHDPD7xxgGK9pivNSK">
-    <mxGraphModel dx="1726" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="4j5li95hxrND-1RaXpSK-2" value="イヤがることは、できない。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="2400" y="100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="N9RoSrJKsaFpwRH_Mh---1" value="……まだ待ってみる。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="-2" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="N9RoSrJKsaFpwRH_Mh---2" value="……まだ待ってみる。" style="html=1;fillColor=none;strokeColor=default;verticalAlign=top;resizable=0;rotatable=0;align=left;labelPosition=right;verticalLabelPosition=middle;strokeWidth=0.2;spacing=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="20" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
