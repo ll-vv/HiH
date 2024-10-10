@@ -26,7 +26,7 @@
         <object label="あ" id="1">
           <mxCell parent="0" />
         </object>
-        <mxCell id="HIPNEEHnvxvXF1cQuqAu-1" value="かわいた風が、夏の終わりを告げていた。" style="html=1;movable=1;backgroundOutline=0;resizable=0;rotatable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacing=0;spacingRight=0;spacingLeft=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="HIPNEEHnvxvXF1cQuqAu-1" value="かわいた風が、夏の終わりを告げていた。&lt;i&gt;a prologue&lt;/i&gt;" style="html=1;movable=1;backgroundOutline=0;resizable=0;rotatable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacing=0;spacingRight=0;spacingLeft=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-706" y="169" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
