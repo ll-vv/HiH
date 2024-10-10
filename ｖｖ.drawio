@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="3">
   <diagram id="Swif9k0cWAV2Uh7dXMp2" name="名">
     <mxGraphModel dx="1326" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kZeDWd1_HxIdfn-QDaoQ" name="フロー">
+    <mxGraphModel dx="1726" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <object label="あ" id="1">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="KtVFjj-sKDuixDFG70oj-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAPAAAACgCAIAAAC9uXYyAAAAAXNSR0IArs4c6QAAAANzQklUBQYFMwuNgAAAAZlJREFUeJzt2NuKgzAQANAUdv//g/vgPhREMmaSemmzcA6lSBtnRjLGYCkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAc1iey/Jc8gGXpNj9jKTb/rIex4NW6gN/fdfPtwv43x6/j1LK8lxeB7dmqYy01KuwkZ5eU3SvJUa49drfpaEvkMzoq5+2XXXH9MeW3eaNNcQKWwGrdi+fuof5mu5Tu7st6cYf3HLEtq7G5Kds0+1Gy0+cxMEVetrruVvyaB755WTSKvjIiVUNI5vmmK6KUx3ndX7YwYaeofRJrJOdzPpJ49vl7rB4y1UR1uV5sPjZOsEe+ojWfMcV8VicGHb33JEUSQe3xl9yK7YWe6aTv/zKt55JtHcHHHsfl9Qcv/Nc72b5DDfQKd11KM5oHJyviElPJJva1sK8u/ct7XcXMVq+Kc/LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdvwBwjd4cxkoN6AAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-100" width="300" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
