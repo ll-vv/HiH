@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="2">
   <diagram id="Swif9k0cWAV2Uh7dXMp2" name="名">
     <mxGraphModel dx="1326" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kZeDWd1_HxIdfn-QDaoQ" name="フロー">
-    <mxGraphModel dx="1328" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2126" dy="761" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="あ" id="1">
           <mxCell parent="0" />
         </object>
-        <mxCell id="HIPNEEHnvxvXF1cQuqAu-1" value="かわいた風が、夏の終わりを告げていた。&lt;i&gt;a prologue&lt;/i&gt;" style="html=1;movable=1;backgroundOutline=0;resizable=0;rotatable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacing=0;spacingRight=0;spacingLeft=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="HIPNEEHnvxvXF1cQuqAu-1" value="かわいた風が、夏の終わりを告げていた。&lt;i&gt;a prologue&lt;/i&gt;" style="html=1;movable=1;backgroundOutline=0;resizable=0;rotatable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacing=0;spacingRight=0;spacingLeft=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-706" y="169" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
