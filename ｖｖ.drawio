@@ -40,7 +40,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kZeDWd1_HxIdfn-QDaoQ" name="時計">
-    <mxGraphModel dx="1063" dy="781" grid="0" gridSize="10" guides="0" tooltips="0" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="1161" grid="0" gridSize="10" guides="0" tooltips="0" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="あ" id="1">
@@ -108,17 +108,17 @@
             <mxGeometry x="800" y="-35" width="2" height="15" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;div&gt;１／反転衝動 І&lt;/div&gt;&lt;div&gt;1day/October&lt;br&gt; &lt;/div&gt;" id="a293svLG-kNIEEbEjT0r-1">
-          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=#FF8000;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" vertex="1" parent="1">
+        <object label="&lt;div&gt;１／反転衝動 І&lt;/div&gt;&lt;div&gt;&lt;i&gt;1day/October　21(Thur.　)&lt;/i&gt;&lt;/div&gt;" id="a293svLG-kNIEEbEjT0r-1">
+          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=#FF8000;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" parent="1" vertex="1">
             <mxGeometry x="1100" width="2" height="15" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;div&gt;でも胸の傷が痛くて、少ししか走れなかった。&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;a prologue&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" id="a293svLG-kNIEEbEjT0r-2">
-          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=#FF8000;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;gradientColor=#999999;gradientDirection=east;" vertex="1" parent="1">
+        <object label="。" id="a293svLG-kNIEEbEjT0r-2">
+          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=#FF8000;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;gradientColor=#999999;gradientDirection=east;" parent="1" vertex="1">
             <mxGeometry x="1600" width="2" height="15" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="a293svLG-kNIEEbEjT0r-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FF8000;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="a293svLG-kNIEEbEjT0r-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FF8000;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1100" y="8" as="sourcePoint" />
             <mxPoint x="1600" y="8" as="targetPoint" />
@@ -134,14 +134,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="&lt;div&gt;自分がいるのは街の外れにある野原で、ちっとも遠い場所になんて行けなかった。&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;a prologue&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" id="sliCnDE9YHcd7dMc0NlS-1">
-          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=none;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" vertex="1" parent="1">
+          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=none;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" parent="1" vertex="1">
             <mxGeometry x="155" y="-66" width="2" height="15" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
+        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" parent="1" vertex="1">
           <mxGeometry x="-142" y="19" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-108" y="20" as="sourcePoint" />
             <mxPoint x="374" y="-30" as="targetPoint" />
