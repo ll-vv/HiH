@@ -139,7 +139,7 @@
         <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" parent="1" vertex="1">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-1" value="学校" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
+        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-1" value="高校" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zrlnv3RWpS-2VO_1PZqj-2" value="遠野の家" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
