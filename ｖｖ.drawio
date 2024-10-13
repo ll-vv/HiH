@@ -132,7 +132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ulf2yr-Utl4B302e1DnM" name="場所">
-    <mxGraphModel dx="663" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,14 +197,14 @@
         <mxCell id="ELLCinRrDjNLgKgaAN3N-5" value="裏門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ELLCinRrDjNLgKgaAN3N-6" value="" style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="200" width="60.33990983812919" height="60" as="geometry" />
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-3" value="並木道" style="whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;resizable=0;rotatable=0;fontColor=#994C00;horizontal=0;fontSize=8;labelBackgroundColor=#000000;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="420.1699549190646" y="200" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ELLCinRrDjNLgKgaAN3N-3" value="並木道" style="whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;resizable=0;rotatable=0;fontColor=#994C00;horizontal=0;fontSize=8;labelBackgroundColor=#000000;rotation=89;" vertex="1" parent="ELLCinRrDjNLgKgaAN3N-6">
-          <mxGeometry x="20.169954919064594" width="20" height="60" as="geometry" />
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-1" value="中庭" style="whiteSpace=wrap;html=1;fillColor=none;resizable=0;rotatable=0;connectable=0;allowArrows=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="400.1699549190646" y="200" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ELLCinRrDjNLgKgaAN3N-1" value="中庭" style="whiteSpace=wrap;html=1;fillColor=none;resizable=0;rotatable=0;connectable=0;allowArrows=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="ELLCinRrDjNLgKgaAN3N-6">
-          <mxGeometry x="0.16995491906459392" width="60" height="60" as="geometry" />
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-7" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#FF0000;rotation=45;resizable=0;rotatable=0;strokeColor=default;strokeWidth=0.4;" vertex="1" parent="1">
+          <mxGeometry x="427" y="217" width="5" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
