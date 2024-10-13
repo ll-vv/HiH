@@ -132,26 +132,61 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ulf2yr-Utl4B302e1DnM" name="場所">
-    <mxGraphModel dx="1726" dy="1161" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" parent="1" vertex="1">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-1" value="学校" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-2" value="遠野の家" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-3" value="遠野の家" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;resizable=0;rotatable=0;connectable=0;allowArrows=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4it1JNvgzitqb4aqIj79-4" value="" style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="-64" width="420" height="64" as="geometry" />
+        </mxCell>
         <object label="&lt;div&gt;自分がいるのは街の外れにある野原で、ちっとも遠い場所になんて行けなかった。&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;a prologue&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" id="sliCnDE9YHcd7dMc0NlS-1">
-          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=none;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" parent="1" vertex="1">
-            <mxGeometry x="155" y="-66" width="2" height="15" as="geometry" />
+          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=none;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" parent="4it1JNvgzitqb4aqIj79-4" vertex="1">
+            <mxGeometry x="220" width="2" height="15" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" parent="1" vertex="1">
-          <mxGeometry x="-142" y="19" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;endArrow=none;endFill=0;" parent="1" edge="1">
+        <mxCell id="OnY5-H0W-iPnQnVEc1Vt-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;endArrow=none;endFill=0;" parent="4it1JNvgzitqb4aqIj79-4" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-108" y="20" as="sourcePoint" />
-            <mxPoint x="374" y="-30" as="targetPoint" />
+            <mxPoint y="64" as="sourcePoint" />
+            <mxPoint x="420" y="34" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-64" y="-30" />
+              <mxPoint y="34" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4it1JNvgzitqb4aqIj79-5" value="" style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="36" width="420" height="64" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;位置的に有間の家と遠野の家は学校を挟んで正反対の場所にある。&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;１／反転衝動 І&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;i&gt;1day/October　21(Thur.　)&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" id="4it1JNvgzitqb4aqIj79-6">
+          <mxCell style="html=1;metaEdit=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacing=0;fillColor=none;strokeColor=none;resizable=0;cloneable=0;rotatable=0;pointerEvents=1;expand=1;allowArrows=0;connectable=0;" vertex="1" parent="4it1JNvgzitqb4aqIj79-5">
+            <mxGeometry x="220" width="2" height="15" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="4it1JNvgzitqb4aqIj79-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;endArrow=none;endFill=0;" edge="1" parent="4it1JNvgzitqb4aqIj79-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint y="64" as="sourcePoint" />
+            <mxPoint x="420" y="34" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="34" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_R4h82JHOgSqxglNByi-2" value="専門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="152" y="187" width="15" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="J_R4h82JHOgSqxglNByi-3" value="裏門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="152" y="259" width="15" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
