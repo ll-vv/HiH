@@ -132,11 +132,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ulf2yr-Utl4B302e1DnM" name="場所">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-1" value="高校" style="whiteSpace=wrap;html=1;fillColor=none;resizable=0;rotatable=0;connectable=0;allowArrows=0;strokeColor=#FF8000;fontColor=#FF8000;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="Zrlnv3RWpS-2VO_1PZqj-1" value="高校" style="whiteSpace=wrap;html=1;fillColor=none;resizable=0;rotatable=0;connectable=0;allowArrows=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OnY5-H0W-iPnQnVEc1Vt-1" value="野原" style="whiteSpace=wrap;html=1;fillColor=#66CC00;resizable=0;rotatable=0;connectable=0;allowArrows=0;" parent="1" vertex="1">
@@ -183,16 +183,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J_R4h82JHOgSqxglNByi-2" value="専門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="152" y="186" width="15" height="14" as="geometry" />
+          <mxGeometry x="152" y="183" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="J_R4h82JHOgSqxglNByi-3" value="裏門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="152" y="259" width="15" height="14" as="geometry" />
+          <mxGeometry x="152" y="261" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="IFZEi3r9Um0CaCDPWLob-1" value="裏庭" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="152" y="245" width="15" height="14" as="geometry" />
+          <mxGeometry x="152" y="243" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8LU8nn0YWMruYVtM74rO-1" value="中庭" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="152" y="230" width="15" height="14" as="geometry" />
+          <mxGeometry x="152" y="226" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-5" value="裏門" style="html=1;fillColor=none;strokeWidth=0.2;strokeColor=#FFFFFF;resizable=0;rotatable=0;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-6" value="" style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="200" width="60.33990983812919" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-3" value="並木道" style="whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;resizable=0;rotatable=0;fontColor=#994C00;horizontal=0;fontSize=8;labelBackgroundColor=#000000;rotation=89;" vertex="1" parent="ELLCinRrDjNLgKgaAN3N-6">
+          <mxGeometry x="20.169954919064594" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELLCinRrDjNLgKgaAN3N-1" value="中庭" style="whiteSpace=wrap;html=1;fillColor=none;resizable=0;rotatable=0;connectable=0;allowArrows=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="ELLCinRrDjNLgKgaAN3N-6">
+          <mxGeometry x="0.16995491906459392" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
